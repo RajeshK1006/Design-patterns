@@ -1,3 +1,3 @@
-interface Factory {
+public interface Factory {
     public Vehicle createVehicle();
 }
